@@ -11,7 +11,7 @@ A major advantage of WebReader is that it does not require any additional softwa
 It is built with the hope to help users with disabilities better interact with web pages. The intention is not to replace screen readers, but with basic features embedded into a web page, any user with an internet connection and a headset will be able to browse a website. It frees people form constantly looking at the screen which is useful for anyone which is on the move
  
 # SNAPSHOTS
-![alt text](snapshots/travel.PNG  "Description goes here")
+![alt text](snapshots/travel1.PNG  "Description goes here")
 
 ![alt text](snapshots/travel2.PNG "Description goes here")
 

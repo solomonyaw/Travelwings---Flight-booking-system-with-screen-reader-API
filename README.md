@@ -13,8 +13,8 @@ It is built with the hope to help users with disabilities better interact with w
 # SNAPSHOTS
 ![alt text](travel.png  "Description goes here")
 
-![alt text](trave2.png "Description goes here")
+![alt text](travel2.png "Description goes here")
 
-![alt text](trave3.png  "Description goes here")
+![alt text](travel3.png  "Description goes here")
 
-![alt text](trave4.png  "Description goes here")
+![alt text](travel4.png  "Description goes here")

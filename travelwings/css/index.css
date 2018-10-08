@@ -1,0 +1,162 @@
+body
+{
+   background-color: #FFFFFF;
+   background-image: url(images/bg_top_img.jpg);
+   background-attachment: fixed;
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: contain;
+   color: #000000;
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text2 div
+{
+   text-align: left;
+}
+#GoMenu1_select, #GoMenu1_input
+{
+   border: 1px #A9A9A9 ridge;
+   background-color: #FFFFFF;
+   color: #8000FF;
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 16px;
+}
+#GoMenu1
+{
+   height: 100%;
+}
+#GoMenu1_select
+{
+   float: left;
+   width: 79%;
+   height: 100%;
+}
+#GoMenu1_input
+{
+   float: right;
+   width: 20%;
+   height: 100%;
+   padding: 0;
+   text-align: center;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text3 div
+{
+   text-align: left;
+}
+#SlideShow1 .image
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+.ThemeShadedVioletMenu,
+.ThemeShadedVioletSubMenuTable
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   overflow-y: scroll;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text5 div
+{
+   text-align: left;
+}
+#jQueryButton1
+{
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 13px;
+   font-style: normal;
+}
+#jQueryButton1 .ui-button
+{
+   position: absolute;
+}
+#jQueryButton1 .ui-button-text-icon .ui-button-icon-primary,
+#jQueryButton1 .ui-button-text-icons .ui-button-icon-primary,
+#jQueryButton1 .ui-button-icons-only .ui-button-icon-primary
+{
+   left: 10px;
+}
+#jQueryButton1 .ui-button-text-icons .ui-button-icon-secondary,
+#jQueryButton1 .ui-button-icons-only .ui-button-icon-secondary
+{
+   right: auto;
+   left: 10px;
+}
+#SlideShow2 .image
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#TextArea1
+{
+   border: 1px #808080 solid;
+   background-color: #FFFFFF;
+   color :#8000FF;
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 16px;
+   padding: 2px 2px 2px 2px;
+   text-align: left;
+   resize: none;
+}
+#PageFooter1
+{
+   background-color: #FF8C00;
+}

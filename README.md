@@ -1,6 +1,6 @@
 # Travelwings - Flight booking system with screen reader API
 
-I built this project during my semester course in Human Computer Interaction(HCI). The main objective of this project is to build systems that are disability friendly. The system was built in order to enable the blind to better interact with web applications. Its a flight booking system with a Web Speech recognition and Screen reader API being intergated. 
+I built this project during a semester course in Human Computer Interaction(HCI) at Valley View University. The main objective of this project is to build systems that are disability friendly. The system was built in order to enable the blind to better interact with web applications. Its a flight booking system with a Web Speech recognition and Screen reader API being intergated. 
 
 # WEBREADER API INTEGRATION
 
